@@ -1,0 +1,1 @@
+# Decolatech2025-Language_Studio_no_Azure_AI
