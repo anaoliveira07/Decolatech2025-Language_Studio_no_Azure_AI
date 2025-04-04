@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "text": "Microsoft is a great technology company.",
+    "analysis": {
+      "sentiment": {
+        "sentiment": "positive",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      "entities": [
+        {
+          "text": "Microsoft",
+          "type": "ORG",
+          "start_pos": 0,
+          "end_pos": 9
+        }
+      ]
+    },
+    "timestamp": "2023-11-15T14:30:45.123456"
+  },
+  {
+    "id": 2,
+    "text": "I'm feeling very happy today!",
+    "analysis": {
+      "sentiment": {
+        "sentiment": "positive",
+        "polarity": 0.6,
+        "subjectivity": 1.0
+      },
+      "entities": []
+    },
+    "timestamp": "2023-11-15T14:30:45.123456"
+  }
+]
